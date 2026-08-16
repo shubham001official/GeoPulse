@@ -1,0 +1,12 @@
+streamlit
+supabase
+pandas
+geopandas
+shapely
+folium
+streamlit-folium
+pydeck
+streamlit-image-comparison
+scikit-image
+imagecodecs
+ploty
