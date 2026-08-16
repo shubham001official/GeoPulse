@@ -9,4 +9,4 @@ pydeck
 streamlit-image-comparison
 scikit-image
 imagecodecs
-ploty
+plotly
