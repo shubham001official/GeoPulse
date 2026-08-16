@@ -8,7 +8,7 @@ _Automated Satellite Telemetry, XGBoost Classification, and WebGL Spatial Analyt
 
 <br/>
 
-[![Frontend Dashboard](https://img.shields.io/badge/Live_Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://geopulse-app.streamlit.app/)
+[![Frontend Dashboard](https://img.shields.io/badge/Live_Dashboard-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit)](https://geo-pulse.streamlit.app)
 ![Backend API](https://img.shields.io/badge/Spatial_DB-Supabase_PostGIS-3ECF8E?style=for-the-badge&logo=supabase)
 ![ML Pipeline](https://img.shields.io/badge/ML_Engine-Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab)
 ![Data Source](https://img.shields.io/badge/Earth_Observation-Sentinel--2-1262D3?style=for-the-badge)
